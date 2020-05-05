@@ -1,0 +1,7 @@
+*.hdf5
+*.pt
+*.pth
+./.ipynb_checkpoints
+./chest_Xray
+/venv2
+/venv
